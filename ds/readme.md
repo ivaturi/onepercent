@@ -2,6 +2,8 @@
 
 Learning data science, a little every day.
 
+**Done**
+
 - [x] [Book] [AIQ: How people and machines are smarter together](https://www.amazon.com/AIQ-People-Machines-Smarter-Together/dp/1250182158), by Nick Polson and James Scott
 - [x] [Book] [Dark data: why what you don't know matters](https://press.princeton.edu/books/hardcover/9780691182377/dark-data), by David hand
 - [x] [Podcast/transcript] AI: The quest for common sense, Farnam street interview with Melanie Mitchell
@@ -14,4 +16,9 @@ Learning data science, a little every day.
 - [x] [Book] Architecting data lakes, Ben Sharma and Alica Laplante
 - [ ] [Video series] Neural networks, by 3blue1brown
   - [x] [But what is a neural network?](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+
+
+**To do**
+
 - [ ] [Github repo] [Data-Analytics-AI Reference Architecture](https://ibm-cloud-architecture.github.io/refarch-data-ai-analytics/data/), by IBM
+- [ ] [Course] [Applied machine learning, CS 5787](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83), by Cornell Tech
