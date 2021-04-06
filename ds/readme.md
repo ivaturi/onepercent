@@ -1,6 +1,6 @@
 # Learning data science
 
-Learning data science, a little every day.
+Path to learning data science
 
 - [x] [Book] [AIQ: How people and machines are smarter together](https://www.amazon.com/AIQ-People-Machines-Smarter-Together/dp/1250182158), by Nick Polson and James Scott
 - [x] [Book] [Dark data: why what you don't know matters](https://press.princeton.edu/books/hardcover/9780691182377/dark-data), by David hand
@@ -18,6 +18,8 @@ Learning data science, a little every day.
   - [ ] [What is backpropagation really doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
   - [ ] [Backpropagation calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 - [x] [Article] [Introduction to Latent Dirichlet Association](https://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/)
+- [ ] [Article] [Understanding deep learning: DNN, RNN, LSTM, CNN and R-CNN](https://medium.com/@sprhlabs/understanding-deep-learning-dnn-rnn-lstm-cnn-and-r-cnn-6602ed94dbff)
+
 
 **To do**
 
