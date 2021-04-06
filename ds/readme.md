@@ -17,9 +17,11 @@ Learning data science, a little every day.
   - [x] [Gradient descent, how neural networks learn](https://www.youtube.com/watch?v=IHZwWFHWa-w)
   - [ ] [What is backpropagation really doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
   - [ ] [Backpropagation calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8)
-
+- [x] [Article] [Introduction to Latent Dirichlet Association](https://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/)
 
 **To do**
 
 - [ ] [Github repo] [Data-Analytics-AI Reference Architecture](https://ibm-cloud-architecture.github.io/refarch-data-ai-analytics/data/), by IBM
 - [ ] [Course] [Applied machine learning, CS 5787](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83), by Cornell Tech
+- [ ] [Paper] [Long short term memory](https://www.bioinf.jku.at/publications/older/2604.pdf)
+- [ ] [Article] [Exploring LSTMs](https://blog.echen.me/2017/05/30/exploring-lstms/)
