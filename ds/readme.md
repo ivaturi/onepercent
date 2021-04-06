@@ -18,7 +18,7 @@ Path to learning data science
   - [ ] [What is backpropagation really doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
   - [ ] [Backpropagation calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 - [x] [Article] [Introduction to Latent Dirichlet Association](https://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/)
-- [ ] [Article] [Understanding deep learning: DNN, RNN, LSTM, CNN and R-CNN](https://medium.com/@sprhlabs/understanding-deep-learning-dnn-rnn-lstm-cnn-and-r-cnn-6602ed94dbff)
+- [x] [Article] [Understanding deep learning: DNN, RNN, LSTM, CNN and R-CNN](https://medium.com/@sprhlabs/understanding-deep-learning-dnn-rnn-lstm-cnn-and-r-cnn-6602ed94dbff)
 
 
 **To do**
