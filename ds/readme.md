@@ -5,7 +5,7 @@ Path to learning data science
 - [x] [Book] [AIQ: How people and machines are smarter together](https://www.amazon.com/AIQ-People-Machines-Smarter-Together/dp/1250182158), by Nick Polson and James Scott
 - [x] [Book] [Dark data: why what you don't know matters](https://press.princeton.edu/books/hardcover/9780691182377/dark-data), by David hand
 - [x] [Podcast/transcript] AI: The quest for common sense, Farnam street interview with Melanie Mitchell
-- [ ] [Course] Learning from data
+- [ ] [Course] [Learning from data](learning-from-data/readme.md)
 - [x] [Book] Architecting data lakes, Ben Sharma and Alica Laplante
 - [ ] [Video series] Neural networks, by 3blue1brown
   - [x] [But what is a neural network?](https://www.youtube.com/watch?v=IHZwWFHWa-w)
