@@ -2,6 +2,7 @@
 
 Course website: https://work.caltech.edu/homeworks.html#schedule
 
+[My notes](notes.pdf)
 
 **Log**
 
