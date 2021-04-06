@@ -11,6 +11,8 @@ Path to learning data science
   - [x] [The linear model I](https://www.youtube.com/watch?v=FIbVs5GbBlQ&list=PLnIDYuXHkit4LcWjDe0EwlE57WiGlBs08&index=3)
   - [x] [Error and noise](https://www.youtube.com/watch?v=L_0efNkdGMc&list=PLnIDYuXHkit4LcWjDe0EwlE57WiGlBs08&index=4)
   - [x] [Training versus testing](https://www.youtube.com/watch?v=SEYAnnLazMU&list=PLnIDYuXHkit4LcWjDe0EwlE57WiGlBs08&index=5)
+  - **Homeworks/assignments**
+    - [ ] [Homework for week 1](learning-from-data/week1)
 - [x] [Book] Architecting data lakes, Ben Sharma and Alica Laplante
 - [ ] [Video series] Neural networks, by 3blue1brown
   - [x] [But what is a neural network?](https://www.youtube.com/watch?v=IHZwWFHWa-w)
