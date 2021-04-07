@@ -2,18 +2,33 @@
 
 Path to learning data science
 
+
+**Books**
+
 - [x] [Book] [AIQ: How people and machines are smarter together](https://www.amazon.com/AIQ-People-Machines-Smarter-Together/dp/1250182158), by Nick Polson and James Scott
 - [x] [Book] [Dark data: why what you don't know matters](https://press.princeton.edu/books/hardcover/9780691182377/dark-data), by David hand
-- [x] [Podcast/transcript] AI: The quest for common sense, Farnam street interview with Melanie Mitchell
-- [ ] [Course] [Learning from data](learning-from-data/readme.md)
 - [x] [Book] Architecting data lakes, Ben Sharma and Alica Laplante
+- [ ] [Book] [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/index.html)
+
+**Podcasts**
+
+- [x] [Podcast/transcript] AI: The quest for common sense, Farnam street interview with Melanie Mitchell
+
+**Courses/videos**
+
+- [ ] [Course] [Learning from data](learning-from-data/readme.md)
 - [ ] [Video series] Neural networks, by 3blue1brown
   - [x] [But what is a neural network?](https://www.youtube.com/watch?v=IHZwWFHWa-w)
   - [x] [Gradient descent, how neural networks learn](https://www.youtube.com/watch?v=IHZwWFHWa-w)
   - [x] [What is backpropagation really doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
   - [ ] [Backpropagation calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8)
+
+**Articles**
+
 - [x] [Article] [Introduction to Latent Dirichlet Association](https://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/)
 - [x] [Article] [Understanding deep learning: DNN, RNN, LSTM, CNN and R-CNN](https://medium.com/@sprhlabs/understanding-deep-learning-dnn-rnn-lstm-cnn-and-r-cnn-6602ed94dbff)
+
+
 
 
 **To do**
