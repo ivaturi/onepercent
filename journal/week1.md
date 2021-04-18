@@ -21,7 +21,6 @@ This week, my goal is to understand the fundamentals of neural networks - the li
 **Do**
 
 - [ ] [Learning from data, homework 1](../ds/learning-from-data/week1/hw1.pdf)
-- [ ] Write my own perceptron 
 
 **Field reading**
 
