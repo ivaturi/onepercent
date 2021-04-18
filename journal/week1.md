@@ -7,10 +7,10 @@ This week, my goal is to understand the fundamentals of neural networks - the li
 
 - [x] `Watch` Learning from data, lecture on linear models
 - [x] `Watch` [But what is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk)
-- [ ] `Read` [Neural networks and deep learning, chapter 1](http://neuralnetworksanddeeplearning.com/chap1.html)
-- [ ] `Review` https://github.com/dennybritz/nn-from-scratch
-- [ ] `Review` https://github.com/cedrickchee/neural-network-in-13-lines
-- [ ] `Review` https://iamtrask.github.io/2015/07/12/basic-python-network/
+- [x] `Read` [Neural networks and deep learning, chapter 1](http://neuralnetworksanddeeplearning.com/chap1.html)
+- [x] `Review` https://github.com/dennybritz/nn-from-scratch
+- [x] `Review` https://github.com/cedrickchee/neural-network-in-13-lines
+- [x] `Review` https://iamtrask.github.io/2015/07/12/basic-python-network/
 
 **Supplementary material**
 
@@ -20,7 +20,7 @@ This week, my goal is to understand the fundamentals of neural networks - the li
 
 **Do**
 
-- [ ] [Learning from data, homework 1](../ds/learning-from-data/week1/hw1.pdf)
+- [x] [Learning from data, homework 1](../ds/learning-from-data/week1/)
 
 **Field reading**
 
