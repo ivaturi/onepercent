@@ -13,4 +13,4 @@ Course website: https://work.caltech.edu/homeworks.html#schedule
   - [x] [Training versus testing](https://www.youtube.com/watch?v=SEYAnnLazMU&list=PLnIDYuXHkit4LcWjDe0EwlE57WiGlBs08&index=5)
 
 **Homeworks/assignments**
-  - [ ] [Week 1](week1)
+  - [x] [Week 1](week1)
