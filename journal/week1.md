@@ -16,7 +16,7 @@ This week, my goal is to understand the fundamentals of neural networks - the li
 
 - [x] `Read` [Wikipedia entry on Perceptrons](https://en.wikipedia.org/wiki/Perceptron)
 - [x] `Read` [Wikipedia entry on activation functions](https://en.wikipedia.org/wiki/Activation_function)
-- [ ] `Read` Chapter 1 from [Perceptrons: An introduction to computational geometry](https://mitpress.mit.edu/books/perceptrons)
+- [x] `Read` Chapter 1 from [Perceptrons: An introduction to computational geometry](https://mitpress.mit.edu/books/perceptrons)
 
 **Do**
 
