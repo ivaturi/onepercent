@@ -20,10 +20,9 @@ This week, my goal is to understand the fundamentals of neural networks - the li
 
 **Do**
 
-- [ ] Learning from data, homework 1
-- [ ] Write my own perceptron 
+- [ ] [Learning from data, homework 1](../ds/learning-from-data/week1/hw1.pdf)
 
 **Field reading**
 
 - [x] Chapter 1 from [Complexity, a guided tour](https://www.amazon.se/Complexity-Guided-Tour-Melanie-Mitchell/dp/0199798109/)
-- [ ] [The algorithms that make instacart roll](https://spectrum.ieee.org/artificial-intelligence/machine-learning/the-algorithms-that-make-instacart-roll)
+- [x] [The algorithms that make instacart roll](https://spectrum.ieee.org/artificial-intelligence/machine-learning/the-algorithms-that-make-instacart-roll)
