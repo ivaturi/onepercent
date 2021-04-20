@@ -4,7 +4,7 @@ Goal: Learn about activation functions and backpropagation
 
 **Learn**
 
-- [ ] `Watch` Learning from data, lecture 2
+- [x] `Watch` Learning from data, lecture 2 [Is learning feasible?](https://www.youtube.com/watch?v=MEG35RDD7RA&list=PLnIDYuXHkit4LcWjDe0EwlE57WiGlBs08&index=2)
 - [ ] `Watch` [But what is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk)
 
 Continued from last week:
