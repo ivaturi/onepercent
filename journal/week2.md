@@ -26,3 +26,4 @@ Continued from last week:
 **Field reading**
 
 - [x] Chapter 2 from [Complexity, a guided tour](https://www.amazon.se/Complexity-Guided-Tour-Melanie-Mitchell/dp/0199798109/)
+- [ ] [Amazon learning library: Demystifying AI/ML/DL](https://www.aws.training/Details/Curriculum?id=27241)
