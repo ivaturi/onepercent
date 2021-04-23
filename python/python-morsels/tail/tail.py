@@ -11,8 +11,20 @@ def tail_mine(sequence, tail_length):
     if tail_length <= 0:
         return []
     seq = list(sequence)
-    l = len(seq)
-    return seq[-tail_length:] if tail_length < l else seq
+    return seq[-tail_length:] if tail_length < len(seq) else seq
 
 
-tail = tail_mine
+def tail_trey1(s, n):
+    """ Store the last n times we've seen """
+    out = []
+    if n <= 0:  # edge case
+        return  []
+    for i in s:
+        if n == 1:   # edge case
+            out = [i]
+        else:
+            out = [*out[-(n-1):], i]
+    return out
+
+
+tail = tail_trey1
