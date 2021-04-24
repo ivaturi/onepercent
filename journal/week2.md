@@ -1,13 +1,11 @@
 # Week 2
 
-Goal: Learn about activation functions and backpropagation
+Goal: Get comfortable with the basics of linear models (perceptrons)
 
 **Learn**
 
 - [x] `Watch` Learning from data, lecture 2 [Is learning feasible?](https://www.youtube.com/watch?v=MEG35RDD7RA&list=PLnIDYuXHkit4LcWjDe0EwlE57WiGlBs08&index=2)
-- [ ] `Watch` [But what is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk)
-
-Continued from last week:
+- [x] `Watch` [But what is a neural network?](https://www.youtube.com/watch?v=aircAruvnKk)
 - [ ] `Review` https://github.com/dennybritz/nn-from-scratch
 - [ ] `Review` https://github.com/cedrickchee/neural-network-in-13-lines
 - [ ] `Review` https://iamtrask.github.io/2015/07/12/basic-python-network/
@@ -24,9 +22,7 @@ Continued from last week:
 - [ ] Implement the network in [Neural networks and deep learning, chapter 1](http://neuralnetworksanddeeplearning.com/chap1.html)
 
 **Field reading**
-
 - [x] Chapter 2 from [Complexity, a guided tour](https://www.amazon.se/Complexity-Guided-Tour-Melanie-Mitchell/dp/0199798109/)
-- [ ] [Amazon learning library: Demystifying AI/ML/DL](https://www.aws.training/Details/Curriculum?id=27241)
 
 **Distractions**
 - [x] [Think like an educator about code quality](https://adamzerner.bearblog.dev/think-like-an-educator-about-code-quality/?utm_source=hnblogs.substack.com)
