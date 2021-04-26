@@ -10,3 +10,7 @@
 **Articles**
 
 - [Data quality at AirBnB](https://medium.com/airbnb-engineering/data-quality-at-airbnb-e582465f3ef7)
+
+**Field reading**
+
+- [Amazon learning library: Demystifying AI/ML/DL](https://www.aws.training/Details/Curriculum?id=27241)
