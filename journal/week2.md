@@ -5,7 +5,7 @@ Goal: Get comfortable with the basics of linear models (perceptrons)
 **Core**
 
 - [x] `Watch` [Learning from data, lecture 4 - Error and noise](https://work.caltech.edu/lectures.html)
-- [ ] `Watch` [Learning from data, lecture 5 - Training vs testing](https://work.caltech.edu/lectures.html)
+- [x] `Watch` [Learning from data, lecture 5 - Training vs testing](https://work.caltech.edu/lectures.html)
 
 **Supplementary material**
 
@@ -19,5 +19,10 @@ Goal: Get comfortable with the basics of linear models (perceptrons)
 
 **Do**
 
-- [ ] Learning from data, homework 2
-- [ ] Two layer nework with backpropagation
+- [x] Learning from data, homework 2
+- [x] Chapter 5 (Statistics) from Data Science from Scratch 
+
+
+**Notes**
+
+I got stuck on the Linear Regression exercises in homework 2 for Learning from Data so I decided to take a step back and work at a lower level (working through DS from scratch).  
