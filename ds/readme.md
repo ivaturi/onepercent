@@ -9,6 +9,7 @@ Path to learning data science
 - [x] [Book] [Dark data: why what you don't know matters](https://press.princeton.edu/books/hardcover/9780691182377/dark-data), by David hand
 - [x] [Book] Architecting data lakes, Ben Sharma and Alica Laplante
 - [ ] [Book] [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/index.html)
+- [x] [Book] [The unfinished game](https://www.amazon.com/Unfinished-Game-Pascal-Fermat-Seventeenth-Century/dp/0465018963)
 
 **Podcasts**
 
