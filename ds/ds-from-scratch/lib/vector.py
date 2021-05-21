@@ -35,5 +35,11 @@ def distance(v1,v2):
   _check([v1, v2])
   return magnitude(diff(v1, v2))
 
-def create_random(length):
-  return [int(100 * random.random()) for _ in range(length)]
+def create_random(length, *lims):
+    if len(lims) == 1:
+        low, high = 0, lims[0]
+    elif len(lims) == 2:
+        low, high = lims[0], lims[1]
+    else:
+        low, high = 0, 100
+    return [low + int(high * random.random()) for _ in range(length)]
